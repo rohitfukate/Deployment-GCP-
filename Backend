@@ -1,0 +1,5 @@
+Dockerized Django app
+
+Deployed on GCP Cloud Run
+
+PostgreSQL via Cloud SQL
